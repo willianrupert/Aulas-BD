@@ -1,10 +1,10 @@
-# 🎓 Aulas de Banco de Dados (CIN0137)
+# Aulas de Banco de Dados (CIN0137)
 
 Este repositório contém o material de estudo para a disciplina de **Banco de Dados (CIN0137)**, ministrada no Centro de Informática (CIn - UFPE). O objetivo é organizar as notas de aula, scripts SQL e planos de estudo para a preparação das avaliações.
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 | Arquivo | Conteúdo | Complexidade |
 | :--- | :--- | :--- |
@@ -17,7 +17,7 @@ Este repositório contém o material de estudo para a disciplina de **Banco de D
 
 ---
 
-## 🤖 Guia para Assistentes de IA
+## Guia para Assistentes de IA
 
 Se você é uma IA lendo este repositório para auxiliar o estudante:
 
@@ -28,7 +28,7 @@ Se você é uma IA lendo este repositório para auxiliar o estudante:
 
 ---
 
-## ⏱️ Análise de Estudo (Estimativa)
+## Análise de Estudo (Estimativa)
 
 Com base na densidade de palavras e blocos de código, aqui está o planejamento sugerido para absorver todo o conteúdo:
 
